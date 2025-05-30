@@ -12,8 +12,8 @@
 * ⚙️ **Easy-to-Edit Config System**
 * 🔍 **Real-Time Emote Search**
 * ⭐ **Favorite Emote Shortcuts**
-* 🔁 **Loop & Cancel Emotes Easily**
-* 🎮 **Optional Controller Support**
+* 🔁 **Advanced Keybind System & Ultimate Kombo System**
+* 🎮 **Advanced Filter Algorithm & Sorting System In Advanced Logic**
 * 🚀 **Highly Optimized for Performance**
 * 🧱 **Clean and Modular Code Structure**
 * 💬 **3D Text / Notification Feedback** (optional)
@@ -28,7 +28,7 @@
 1. Clone or download the repository:
 
    ```bash
-   git clone https://github.com/ripexv/ripex-emotemenu
+   git clone https://github.com/ritalinui/ripex-emotemenu
    ```
 2. Move the folder to your `resources` directory.
 3. Add this line to your `server.cfg`:
@@ -38,6 +38,7 @@
    ```
 4. Configure `config.lua` to match your server preferences.
 5. Done! Launch your server and test the emote menu.
+6. If you have any problems you can contact us on discord. 
 
 ---
 
@@ -85,7 +86,7 @@ Credit to `Ripex` is always appreciated 💖
 
 ## 🔗 Links
 
-* 🧑‍💻 Developer GitHub: [https://github.com/ripex](https://github.com/ripexv) *(update if needed)*
+* 🧑‍💻 Developer GitHub: [https://github.com/ritalinui](https://github.com/ritalinui)
 * 💬 Contact: for any questions, support or anything [Discord](https://discord.gg/ShAVkSFnXQ)
 * 🎥 Youtube: to see more high-quality content [Channel](https://www.youtube.com/@ripexv)
 
