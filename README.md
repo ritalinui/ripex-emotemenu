@@ -46,7 +46,7 @@
 
 > *(Insert GIF or video preview here)*
 > Example:
-> ![preview](https://your-image-link.com/preview.gif)
+[![Emote Menu APEX - FiveM Script [QBCore - FREE]](https://ytcards.demolab.com/?id=4wfEa0emkuw&title=Emote+Menu+APEX+-+FiveM+Script+[QBCore-Free].&lang=en&timestamp=1742816613&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=587 "Emote Menu APEX - FiveM Script [QBCore - FREE]")](https://www.youtube.com/watch?v=4wfEa0emkuw)
 
 ---
 
